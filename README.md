@@ -4,9 +4,9 @@
 >Затем сделать это при помощи docker-compose.
 >Сохраните свои Dockerfile, docker-compose.yml и скриншот запущенного приложения.(Будет плюсом если выложите на Github).
 
-[![Screenshot](screenshot.png)](http://64.137.165.110:3000/)
+[![Screenshot](screenshot1.png)](http://64.137.165.110:3000/)
 
-[Демо:](http://64.137.165.110:3000/)
+[Демо](http://64.137.165.110:3000/)
 
 
 За основу для образа взят [flatris](https://github.com/timurb/flatris).
